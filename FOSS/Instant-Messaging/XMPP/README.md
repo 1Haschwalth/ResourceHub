@@ -1,0 +1,6 @@
+# [XMPP](https://github.com/xsf)
+## [可扩展消息和在场协议](https://github.com/1Haschwalth/Translation/blob/MAIN/Archive/Backup/arXiv/Computer%20Science/XMPP/Internet%20of%20Things%20Device%20Capabilities%2C%20%20Architectures%2C%20Protocols%2C%20and%20Smart%20%20Applications%20in%20Healthcare%20Domain%3A%20A%20Review.md#c%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BF%A1%E6%81%AF%E4%BC%A0%E9%80%92%E5%92%8C%E5%AD%98%E5%9C%A8%E5%8D%8F%E8%AE%AE)
+可扩展消息和在场协议（XMPP）是一种确保低带宽通信和短消息传输的协议，因此非常适合视频会议、发布-订阅系统、远程呈现、多方聊天和物联网[^84]。对于即时信息应用，XMPP 适用于身份验证、安全措施、访问控制、逐跳和端到端加密，以及与各种协议的互操作性。该协议具有三种功能：客户端、服务器和网关，可促进其中任何两个角色之间的双向通信[^85]。在这种情况下，客户端通过 TCP 协议连接到服务器，并使用 XML 流标准传输数据；服务器负责连接管理和信息路由，网关则确保分布式系统之间的可靠连接。该协议灵活、简单，可在各种应用程序之间进行通信。但是，XMPP 对设备的计算能力要求高，消耗网络带宽，传输的数据类型简单，无法提供 QoS [^86]。
+[^84]:E. Al-Masri et al., “Investigating Messaging Protocols for the Internet of Things (IoT),” IEEE Access, vol. 8, pp. 94880–94911, 2020.
+[^85]:M. Faiqurahman, M. M. Madani, and D. R. Akbi, “Performance of XMPP-Based Gateway for IoT Device Communication Services,” J. Teknol. dan Sist. Komput., vol. 7, no. 4, pp. 127–133, Oct. 2019.
+[^86]:C.-S. Cho, W.-G. Chen, C.-K. C. Liao, J.-L. Liao, F.-F. Chen, and T.-C. Shen, “Building on the Distributed Energy Resources IoT based IEC 61850 XMPP for TPC,” in 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), 2019, pp. 61–66.
