@@ -1,0 +1,2 @@
+# libreCMC
+自由的路由器GNU/Linux操作系统，另外因为openwrt相比较librecmc而言生态更活跃稳健性也更好，但openwrt不对私有的blob做限制，所以我们建议选择librecmc支持的机型刷openwrt以避免私有blob的问题。https://librecmc.org
