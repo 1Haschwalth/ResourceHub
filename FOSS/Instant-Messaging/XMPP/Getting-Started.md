@@ -1,4 +1,4 @@
-# 开始
+# 开始 Getting Started
 >**🌏📲 https://github.com/xsf/xmpp.org/blob/master/content/getting-started.md**
 
 您想开始使用 XMPP 聊天吗？本页面可帮助您在几分钟内[开始使用 XMPP](https://github.com/xsf/xmpp.org/blob/master/content/getting-started.md)。
